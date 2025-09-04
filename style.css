@@ -151,13 +151,13 @@ tr:hover {
   margin-top: 20px;
 }
 .error {
-    border-color: #e74c3c !important;
+  border-color: #e74c3c !important;
 }
 
 .error-message {
-    color: #e74c3c;
-    margin-top: 5px;
-    font-size: 0.8em;
+  color: #e74c3c;
+  margin-top: 5px;
+  font-size: 0.8em;
 }
 
 /* Responsive Styles */
